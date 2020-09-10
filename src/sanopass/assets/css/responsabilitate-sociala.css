@@ -1,0 +1,42 @@
+
+@media (max-width: 992px) { 
+
+	.mov, .doamna{
+		display:none;
+	}
+	.resp1, .resp2 {
+	  /*background-color: red;*/
+	  margin-left:3px;
+	  margin-right:0px; 
+	  margin-top:0px;
+	  width:90%;
+	}
+	
+	.resp2 {
+		margin-bottom:0px;
+	}
+	.resp1 {
+		margin-top:10px;
+	}
+	.verde {
+	 
+	  height: 100%;
+	}
+	.resp4{
+		margin-left:3px;
+	}
+	.resp5{
+		margin-top: 25px;
+		margin-left:3px;
+	}
+	
+	.team{
+		padding-top:75px;
+		padding-bottom:10px;
+	}
+}
+@media (min-width: 768px) {  }
+
+@media (min-width: 992px) {  }
+
+@media (min-width: 1200px) {  }
